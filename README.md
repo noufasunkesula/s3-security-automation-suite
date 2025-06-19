@@ -41,8 +41,9 @@ This project is structured and documented to simulate how a Cloud Security Analy
 - AWS Config Compliance Monitoring
 - ScoutSuite Cloud Security Auditing
 
-## Project Structure
+## Repository Structure
 
+```python
 s3-security-automation/
 │
 ├── 01_s3_architecture/ # AWS architecture diagram
@@ -50,7 +51,7 @@ s3-security-automation/
 ├── 03_screenshots/ # Step-by-step setup verification (blurred/redacted where required)
 ├── 04_s3_scoutsuite_report/ # ScoutSuite report snapshots
 ├── README.md # Project documentation
-
+```
 ## Tools and Technologies
 
 - AWS (S3, IAM, Config)
@@ -80,5 +81,8 @@ All sensitive identifiers and metadata have been redacted or blurred to maintain
 
 ## Author
 
-**Noufa Sunkesula**  
-📧 noufasunkesula@gmail.com
+Noufa Sunkesula 
+
+Mail ID: noufasunkesula@gmail.com
+
+Contact: +91 8106859686
